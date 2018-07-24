@@ -8,3 +8,4 @@ Algo II/III | Assignment Breakdown - https://youtu.be/PDxW0rdH48Y <br>
 Responsive Design - https://youtu.be/f-6vuRfkvl8 <br>
 Responsive Frameworks - https://youtu.be/OnkdVVv8k-4 <br>
 Reivew for review sake - https://youtu.be/FDAmOnycu-I <br>
+JS Objects - https://youtu.be/FRxquPBwqa8 <br>
