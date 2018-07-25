@@ -10,3 +10,4 @@ Responsive Frameworks - https://youtu.be/OnkdVVv8k-4 <br>
 Reivew for review sake - https://youtu.be/FDAmOnycu-I <br>
 JS Objects - https://youtu.be/FRxquPBwqa8 <br>
 Jquery - https://youtu.be/hyQTOyb-h18 <br>
+CSS Target Review - https://youtu.be/ydec1NiMMR0 <br>
