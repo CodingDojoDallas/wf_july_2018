@@ -11,3 +11,4 @@ Reivew for review sake - https://youtu.be/FDAmOnycu-I <br>
 JS Objects - https://youtu.be/FRxquPBwqa8 <br>
 Jquery - https://youtu.be/hyQTOyb-h18 <br>
 CSS Target Review - https://youtu.be/ydec1NiMMR0 <br>
+JQuery Demo / MySQL ERD - https://youtu.be/lSlE9Vz9frc <br>
